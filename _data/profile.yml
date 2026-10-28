@@ -19,7 +19,7 @@ linkedin: henri-sayag
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am a 3rd year Math and Robotics student at CMU, working with the
+    I am a 3rd year Honors Math and Robotics student at CMU, working with the
     <a href="https://rislab.org/" target="_blank">Resilient Intelligent Systems Lab</a>
     part of 
     CMU's Robotics Institute.
@@ -55,7 +55,7 @@ experience:
   logo: /assets/images/badges/kodiak.png
   position: AI/ML Team Intern
   date: May. 2026 - August. 2026
-- name: Stereolabs
+- name: Stereolabs (acquired by Ouster)
   logo: /assets/images/badges/stereolabs.png
   position: R&D Team Intern
   date: May. 2025 - July. 2025
