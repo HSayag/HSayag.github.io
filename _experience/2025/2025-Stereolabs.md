@@ -14,7 +14,7 @@ abstract: >-
   • Iterated until added tasks reached within 15% of baseline metrics, depth retained 100% of accuracy </br>
   • Optimised architecture and TensorRT engine allowing for edge execution on a NVIDIA Jetson Orin </br>
   • Running semseg, instseg, bbox, & depth in parallel achieved throughput within 30% of depth alone </br>
-cover:          /assets/images/badges/Stereolabs.png
+cover:          /assets/images/badges/stereolabs.png
 links:
   Website: https://www.stereolabs.com/
 ---
