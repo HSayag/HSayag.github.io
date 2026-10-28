@@ -14,7 +14,7 @@ abstract: >-
   • Reduced train time by 50%, multiple significant detection improvements, & negligible compute cost </br>
   • Improved heading prediction by reparametrising, a priority loss, & refinement head; -20% mean error </br>
   • Ablated ViT image encoders with dense prediction improvements for better detection & LIDAR fusion </br>
-cover:          /assets/images/badges/Kodiak.png
+cover:          /assets/images/badges/kodiak.png
 links:
   Website: https://kodiak.ai/
 ---
