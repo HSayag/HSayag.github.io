@@ -1,5 +1,5 @@
 ---
-title:          "Stereolabs"
+title:          "Stereolabs (acquired by Ouster)"
 date:           2025-01-01 #2024-05-12 00:01:00 +0800
 selected:       true
 pub:            "R&D Intern"
